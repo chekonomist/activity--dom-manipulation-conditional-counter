@@ -16,8 +16,8 @@ document
 
 
 /* ---- ADVENTURE MODE ---- */
-/* Use only one Event Listener on the parent 
-    <div class="component"> element
+/* Use only one Event Listener on the parent
+    <div class="component"> 
  */
 
 /* Uncommment....*/
